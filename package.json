@@ -1,0 +1,10 @@
+{
+  "name": "advanced-playwright-framework",
+  "scripts": {
+    "test": "npx playwright test",
+    "smoke": "npx playwright test --grep @smoke"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
