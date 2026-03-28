@@ -8,5 +8,5 @@
 - Retry, Logging, Validation utilities
 
 ## Run
-npm install
-npx playwright test
+- npm install
+- npx playwright test
