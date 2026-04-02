@@ -15,6 +15,6 @@ export default defineConfig({
 
     reporter: [
       ['html', { open: 'never' }],
-      ['junit', { outputFile: 'results.xml' }]
+      ['junit', { outputFile: 'test-results/results.xml' }]
     ],
 });
